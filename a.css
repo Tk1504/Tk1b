@@ -1,0 +1,36 @@
+#a{
+    text-align: center;
+    background-color:rgb(216, 34, 125);
+    color:white;
+    margin: auto;
+    height:50px;
+    border:3px rgba(19, 6, 1, 0.863) outset;
+    padding-bottom: 20px;
+   
+}
+img{
+    height:300px;
+    align-items: center;
+    
+}
+#b{
+    text-align: center;
+    background-color: bisque;
+    height:200px;
+    margin:auto;
+    width: 500px;
+    list-style: none;
+}
+
+#c{
+    text-align: center;
+    background-color:pink;
+    margin: auto;
+    height:50px;
+    border:3px palevioletred outset;
+    padding-top: 20px;
+    font-size: 12px;
+}
+body{
+    background-color:lightblue;
+}
